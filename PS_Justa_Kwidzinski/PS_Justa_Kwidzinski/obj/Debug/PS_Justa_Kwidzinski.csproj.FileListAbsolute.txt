@@ -1,0 +1,10 @@
+C:\Users\Mateusz\source\repos\PS_Justa_Kwidzinski\PS_Justa_Kwidzinski\bin\Debug\PS_Justa_Kwidzinski.exe.config
+C:\Users\Mateusz\source\repos\PS_Justa_Kwidzinski\PS_Justa_Kwidzinski\bin\Debug\PS_Justa_Kwidzinski.exe
+C:\Users\Mateusz\source\repos\PS_Justa_Kwidzinski\PS_Justa_Kwidzinski\bin\Debug\PS_Justa_Kwidzinski.pdb
+C:\Users\Mateusz\source\repos\PS_Justa_Kwidzinski\PS_Justa_Kwidzinski\obj\Debug\PS_Justa_Kwidzinski.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\source\repos\PS_Justa_Kwidzinski\PS_Justa_Kwidzinski\obj\Debug\PS_Justa_Kwidzinski.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\PS_Justa_Kwidzinski\PS_Justa_Kwidzinski\obj\Debug\PS_Justa_Kwidzinski.csproj.GenerateResource.Cache
+C:\Users\Mateusz\source\repos\PS_Justa_Kwidzinski\PS_Justa_Kwidzinski\obj\Debug\PS_Justa_Kwidzinski.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\PS_Justa_Kwidzinski\PS_Justa_Kwidzinski\obj\Debug\PS_Justa_Kwidzinski.exe
+C:\Users\Mateusz\source\repos\PS_Justa_Kwidzinski\PS_Justa_Kwidzinski\obj\Debug\PS_Justa_Kwidzinski.pdb
+C:\Users\Mateusz\source\repos\PS_Justa_Kwidzinski\PS_Justa_Kwidzinski\obj\Debug\PS_Justa_Kwidzinski.Form1.resources
